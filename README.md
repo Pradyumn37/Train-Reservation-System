@@ -46,5 +46,12 @@ The Train Reservation System is a powerful software application designed to mana
 3. **Manage Reservations:**  
    Add, book, or cancel reservations and print tickets.
 
+  
+## Screenshots
 
+| Screenshot  | Screenshot  | Screenshot  |
+|--------------|--------------|--------------|
+| ![train](https://github.com/user-attachments/assets/584d82a2-b07f-4603-9ab6-78ddd6b2d233) | ![train1](https://github.com/user-attachments/assets/436b1823-226d-4bb4-89da-ea950917d238) | ![train3](https://github.com/user-attachments/assets/b230147b-aee1-484b-9dee-1a3644ec6588) |
+| ![train4](https://github.com/user-attachments/assets/9a6cfab6-0419-454b-b863-4af2c7221e0e) | ![train5](https://github.com/user-attachments/assets/203afa58-5437-44e1-a6cf-e4cd2ca23898) | ![train6](https://github.com/user-attachments/assets/f96c38b2-9195-4e9e-9662-64206cec7a47) |
+| ![train7](https://github.com/user-attachments/assets/8c7da0a4-d18b-4809-a9ae-6c0c0f94885c) | ![train8](https://github.com/user-attachments/assets/29422099-5425-47fe-a88b-87c83b810246) | ![train8](https://github.com/user-attachments/assets/7a5ab506-f95f-4257-8851-18767cb568ed) |
 ---
